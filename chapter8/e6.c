@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-#define ND 10
+#define ND 11
 #define NSEG 7
 #define NLINE 3
 

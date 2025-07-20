@@ -1,5 +1,5 @@
 /*
- * Chapter 8: Exercise 9:
+ * Chapter 8: Program 9:
  * Write a program that makes a random walk and print the end game board
  * after the player moves from A to Z times.
  *
